@@ -1,4 +1,4 @@
-# Nice netcat
+# Static Aint Always Noise
 
 ## Overview
 
